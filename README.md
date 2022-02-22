@@ -27,7 +27,9 @@ For the SL task, the data were grouped into nine coherent subsets, each having c
 For each mix the CO2 emissions were calculated based on material composition and heat treatment, without considering logistical and transport-related emissions. The values are based on the following equation:
 
 CO_2  emissions (kg/m^3 )=∑_i▒w_i ·m_i+(0.6417·T-16.0417)·t          				(1)
+
 where:
+
 wi   	CO2 emissions (kg) to produce 1 kg of the mix component i
 mi   	mass of a mix component i in kg/m3 of fresh concrete
 T  	Curing Temperature if higher than 25° Celsius
