@@ -39,6 +39,8 @@ OPC	Flying Ashes	GGBFS	Silica Fume	Metakaolin	Aggregates	Superplasticizer	NaOH  
 w (kg/ m3)	0.84	0.004	0.052	0.014	0.33	0.0048	1.88	1.915	0.36	1.222
 Table 1: CO2 footprint of in kg/m3 for the precursor materials. 
 
+## References
+
 [1] T. Xie, P. Visintin, X. Zhao und R. Gravina, „Mix design and mechanical properties of geopolymer and alkali activated concrete: Review of the state-of-the-art and the development of a new unified approach,“ Construction and Building Materials, p. 256 (2020) 119380; DOI: https://doi.org/10.1016/j.conbuildmat.2020.119380, 17. April 2020. 
 [2] A. Alsalman, L. N. Assi, R. S. Kareem, K. Carter und P. Ziehl, „Energy and CO2 emission assessments of alkali-activated concrete and Ordinary Portland Cement concrete: A comparative analysis of different grades of concrete,“ Cleaner Environmental Systems, Bd. 3, Nr. 100047, p. https://doi.org/10.1016/j.cesys.2021.100047., 2021. 
 
