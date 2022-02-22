@@ -1,6 +1,6 @@
 # SLAMD-FIB-Case-Study
 
-This repository contains the underlying source data and results for the use case presented at the FIB conference 2022. 
+This repository contains the underlying source data and results for the SLAMD use case presented at the FIB conference 2022. 
 
 ## Title: ACCELERATING THE SEARCH FOR ALKALI ACTIVATED CEMENTS WITH SEQUENTIAL LEARNING 
 
