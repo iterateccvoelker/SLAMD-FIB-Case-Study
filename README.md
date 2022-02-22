@@ -31,8 +31,11 @@ CO_2  emissions (kg/m^3 )=∑_i▒w_i ·m_i+(0.6417·T-16.0417)·t          				
 where:
 
 wi   	CO2 emissions (kg) to produce 1 kg of the mix component i
+
 mi   	mass of a mix component i in kg/m3 of fresh concrete
+
 T  	Curing Temperature if higher than 25° Celsius
+
 t 	Curing duration in days
 
 The first part of the equation sums the carbon footprint wi weighted with the mass of the individual precursor materials qi . The underlying information was extracted from [2] and is summarized in Table 1. The second part of the equation represents the cumulative emissions from heat treatment. It is modeled as a simple linear function that contains the curing temperature T and duration t and is applied only to materials with a curing temperature higher than 25 degrees Celsius. 
